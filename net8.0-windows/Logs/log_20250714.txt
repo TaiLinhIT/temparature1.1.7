@@ -1,247 +1,99 @@
-14:28:48 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:28:48 - Máy 1 đã phản hồi đúng hạn.
-14:28:52 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:28:52 - Máy 1 đã phản hồi đúng hạn.
-14:28:57 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:28:57 - Máy 1 đã phản hồi đúng hạn.
-14:29:28 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
-14:29:39 - Máy 1 đã phản hồi đúng hạn.
-14:29:43 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:29:43 - Máy 1 đã phản hồi đúng hạn.
-14:29:47 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:29:47 - Máy 1 đã phản hồi đúng hạn.
-14:29:51 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:29:51 - Máy 1 đã phản hồi đúng hạn.
-14:29:55 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:29:55 - Máy 1 đã phản hồi đúng hạn.
-14:29:59 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:29:59 - Máy 1 đã phản hồi đúng hạn.
-14:30:03 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:30:03 - Máy 1 đã phản hồi đúng hạn.
-14:30:07 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:07 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:30:07 - Máy 1 đã phản hồi đúng hạn.
-14:30:08 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:09 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:10 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:15 - Máy 1 đã phản hồi đúng hạn.
-14:30:18 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:30:18 - Máy 1 đã phản hồi đúng hạn.
-14:30:22 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:30:23 - Máy 1 đã phản hồi đúng hạn.
-14:30:27 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:30:27 - Máy 1 đã phản hồi đúng hạn.
-14:30:31 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:30:31 - Máy 1 đã phản hồi đúng hạn.
-14:30:35 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:30:35 - Máy 1 đã phản hồi đúng hạn.
-14:30:39 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:30:39 - Máy 1 đã phản hồi đúng hạn.
-14:30:42 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:43 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:30:43 - Máy 1 đã phản hồi đúng hạn.
-14:30:44 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:46 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:47 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:30:51 - Máy 1 đã phản hồi đúng hạn.
-14:30:51 - DataReceived Error: Index was outside the bounds of the array.
-14:30:51 -    at ToolTemp.WPF.MVVM.ViewModel.ToolViewModel.SerialPort_DataReceived(Object sender, SerialDataReceivedEventArgs e) in D:\Linh\Project\Temperature_Tool\ToolTemp.WPF\MVVM\ViewModel\ToolViewModel.cs:line 262
-14:30:53 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:30:53 - Máy 1 đã phản hồi đúng hạn.
-14:30:57 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:30:57 - Máy 1 đã phản hồi đúng hạn.
-14:31:01 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:31:01 - Máy 1 đã phản hồi đúng hạn.
-14:31:05 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:31:05 - Máy 1 đã phản hồi đúng hạn.
-14:31:10 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:31:10 - Máy 1 đã phản hồi đúng hạn.
-14:31:12 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:14 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:31:14 - Máy 1 đã phản hồi đúng hạn.
-14:31:17 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:31:17 - Máy 1 đã phản hồi đúng hạn.
-14:31:18 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:21 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:23 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:25 - Máy 1 đã phản hồi đúng hạn.
-14:31:27 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:31:27 - Máy 1 đã phản hồi đúng hạn.
-14:31:30 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:31:30 - Máy 1 đã phản hồi đúng hạn.
-14:31:34 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:31:34 - Máy 1 đã phản hồi đúng hạn.
-14:31:38 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:31:38 - Máy 1 đã phản hồi đúng hạn.
-14:31:40 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:42 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:31:42 - Máy 1 đã phản hồi đúng hạn.
-14:31:45 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:31:45 - Máy 1 đã phản hồi đúng hạn.
-14:31:49 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:31:49 - Máy 1 đã phản hồi đúng hạn.
-14:31:49 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:56 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:58 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:31:58 - Máy 1 đã phản hồi đúng hạn.
-14:32:00 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:32:00 - Máy 1 đã phản hồi đúng hạn.
-14:32:02 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:32:02 - Máy 1 đã phản hồi đúng hạn.
-14:32:05 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:32:05 - Máy 1 đã phản hồi đúng hạn.
-14:32:09 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:32:09 - Máy 1 đã phản hồi đúng hạn.
-14:32:11 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:32:13 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:32:13 - Máy 1 đã phản hồi đúng hạn.
-14:32:16 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:32:16 - Máy 1 đã phản hồi đúng hạn.
-14:32:19 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:32:19 - Máy 1 đã phản hồi đúng hạn.
-14:32:20 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:32:29 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:32:30 - Máy 1 đã phản hồi đúng hạn.
-14:32:32 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:32:33 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:32:33 - Máy 1 đã phản hồi đúng hạn.
-14:32:35 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:32:35 - Máy 1 đã phản hồi đúng hạn.
-14:32:37 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:32:37 - Máy 1 đã phản hồi đúng hạn.
-14:32:40 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:32:40 - Máy 1 đã phản hồi đúng hạn.
-14:32:44 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:32:44 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:32:44 - Máy 1 đã phản hồi đúng hạn.
-14:32:47 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:32:47 - Máy 1 đã phản hồi đúng hạn.
-14:32:50 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:32:50 - Máy 1 đã phản hồi đúng hạn.
-14:32:51 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:00 - Máy 1 đã phản hồi đúng hạn.
-14:33:02 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:04 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:33:04 - Máy 1 đã phản hồi đúng hạn.
-14:33:06 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:07 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:33:08 - Máy 1 đã phản hồi đúng hạn.
-14:33:10 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:33:10 - Máy 1 đã phản hồi đúng hạn.
-14:33:13 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:33:13 - Máy 1 đã phản hồi đúng hạn.
-14:33:16 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:17 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:33:17 - Máy 1 đã phản hồi đúng hạn.
-14:33:20 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:33:20 - Máy 1 đã phản hồi đúng hạn.
-14:33:23 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:33:23 - Máy 1 đã phản hồi đúng hạn.
-14:33:24 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:33 - Máy 1 đã phản hồi đúng hạn.
-14:33:35 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:37 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:33:37 - Máy 1 đã phản hồi đúng hạn.
-14:33:40 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:40 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:33:40 - Máy 1 đã phản hồi đúng hạn.
-14:33:42 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:33:42 - Máy 1 đã phản hồi đúng hạn.
-14:33:45 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:33:45 - Máy 1 đã phản hồi đúng hạn.
-14:33:48 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:33:48 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:33:49 - Máy 1 đã phản hồi đúng hạn.
-14:33:52 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:33:52 - Máy 1 đã phản hồi đúng hạn.
-14:33:55 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:33:55 - Máy 1 đã phản hồi đúng hạn.
-14:33:56 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:34:05 - Máy 1 đã phản hồi đúng hạn.
-14:39:56 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
-14:39:59 - Máy 1 đã phản hồi đúng hạn.
-14:40:03 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:40:03 - Máy 1 đã phản hồi đúng hạn.
-14:40:11 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
-14:40:11 - Máy 1 đã phản hồi đúng hạn.
-14:40:15 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:40:15 - Máy 1 đã phản hồi đúng hạn.
-14:40:19 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:40:19 - Máy 1 đã phản hồi đúng hạn.
-14:40:23 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:40:23 - Máy 1 đã phản hồi đúng hạn.
-14:40:27 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:40:27 - Máy 1 đã phản hồi đúng hạn.
-14:40:32 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:40:32 - Máy 1 đã phản hồi đúng hạn.
-14:40:36 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:40:36 - Máy 1 đã phản hồi đúng hạn.
-14:40:44 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:40:46 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:40:48 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:41:11 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:41:11 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:41:11 - Máy 1 đã phản hồi đúng hạn.
-14:42:50 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
-14:43:11 - Máy 1 đã phản hồi đúng hạn.
-14:44:56 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
-14:45:02 - Máy 1 đã phản hồi đúng hạn.
-14:45:17 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:45:17 - Máy 1 đã phản hồi đúng hạn.
-14:45:29 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:45:29 - Máy 1 đã phản hồi đúng hạn.
-14:45:36 - DataReceived Error: Collection was modified; enumeration operation may not execute.
-14:45:36 -    at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
-   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
-   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
-   at ToolTemp.WPF.MVVM.ViewModel.ToolViewModel.SerialPort_DataReceived(Object sender, SerialDataReceivedEventArgs e) in D:\Linh\Project\Temperature_Tool\ToolTemp.WPF\MVVM\ViewModel\ToolViewModel.cs:line 266
-14:45:39 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:45:39 - Máy 1 đã phản hồi đúng hạn.
-14:45:43 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:45:43 - Máy 1 đã phản hồi đúng hạn.
-14:45:47 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:45:47 - Máy 1 đã phản hồi đúng hạn.
-14:45:51 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:45:51 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:45:51 - Máy 1 đã phản hồi đúng hạn.
-14:45:52 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:45:53 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:45:54 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:46:32 - Máy 1 đã phản hồi đúng hạn.
-14:47:09 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:47:10 - Máy 1 đã phản hồi đúng hạn.
-14:47:14 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:47:14 - Máy 1 đã phản hồi đúng hạn.
-14:47:18 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:47:18 - Máy 1 đã phản hồi đúng hạn.
-14:47:22 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:47:22 - Máy 1 đã phản hồi đúng hạn.
-14:47:26 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:47:26 - Máy 1 đã phản hồi đúng hạn.
-14:47:30 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:47:30 - Máy 1 đã phản hồi đúng hạn.
-14:47:32 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:47:34 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:47:34 - Máy 1 đã phản hồi đúng hạn.
-14:47:35 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:47:36 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:47:37 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:47:51 - Invalid data for A02-前烘箱溫度_Address_1 at address 1: insufficient length.
-14:47:51 - Máy 1 đã phản hồi đúng hạn.
-14:47:55 - Invalid data for A03-加硫機溫度_Address_1 at address 1: insufficient length.
-14:47:55 - Máy 1 đã phản hồi đúng hạn.
-14:47:59 - Invalid data for A04-中段烘箱1-上溫度_Address_1 at address 1: insufficient length.
-14:47:59 - Máy 1 đã phản hồi đúng hạn.
-14:48:03 - Invalid data for A05-中段烘箱1-下溫度_Address_1 at address 1: insufficient length.
-14:48:03 - Máy 1 đã phản hồi đúng hạn.
-14:48:05 - Máy 4: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:48:07 - Invalid data for A06-中段烘箱2-上溫度_Address_1 at address 1: insufficient length.
-14:48:07 - Máy 1 đã phản hồi đúng hạn.
-14:48:11 - Invalid data for A07-中段烘箱2-下溫度_Address_1 at address 1: insufficient length.
-14:48:11 - Máy 1 đã phản hồi đúng hạn.
-14:48:15 - Invalid data for A08-中段烘箱3-上溫度_Address_1 at address 1: insufficient length.
-14:48:15 - Máy 1 đã phản hồi đúng hạn.
-14:48:16 - Máy 1: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:48:17 - Máy 3: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:48:19 - Máy 2: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
-14:48:26 - Máy 1 đã phản hồi đúng hạn.
+15:28:26 - Serial port started on COM4 with baudrate 2400 status System.Func`1[System.Boolean]
+15:28:27 - Máy 1 đã phản hồi đúng hạn.
+15:28:38 - Máy 1 đã phản hồi đúng hạn.
+15:28:38 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:38 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:38 - Lưu thành công dữ liệu cho địa chỉ 1
+15:28:38 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:38 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:38 - Lưu thành công dữ liệu cho địa chỉ 1
+15:28:43 - Máy 1 đã phản hồi đúng hạn.
+15:28:43 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:43 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:43 - Lưu thành công dữ liệu cho địa chỉ 1
+15:28:48 - Máy 1 đã phản hồi đúng hạn.
+15:28:48 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:48 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:48 - Lưu thành công dữ liệu cho địa chỉ 1
+15:28:53 - Máy 1 đã phản hồi đúng hạn.
+15:28:53 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:53 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:53 - Lưu thành công dữ liệu cho địa chỉ 1
+15:28:58 - Máy 1 đã phản hồi đúng hạn.
+15:28:58 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:28:58 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:28:58 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:03 - Máy 1 đã phản hồi đúng hạn.
+15:29:03 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:03 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:03 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:08 - Máy 1 đã phản hồi đúng hạn.
+15:29:08 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:08 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:08 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:13 - Máy 1 đã phản hồi đúng hạn.
+15:29:13 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:13 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:13 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:18 - Máy 1 đã phản hồi đúng hạn.
+15:29:18 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:18 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:18 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:23 - Máy 1 đã phản hồi đúng hạn.
+15:29:23 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:23 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:23 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:28 - Máy 1 đã phản hồi đúng hạn.
+15:29:28 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:28 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:28 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:33 - Máy 1 đã phản hồi đúng hạn.
+15:29:33 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:33 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:33 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:38 - Máy 1 đã phản hồi đúng hạn.
+15:29:38 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:38 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:38 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:43 - Máy 1 đã phản hồi đúng hạn.
+15:29:43 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:43 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:43 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:48 - Máy 1 đã phản hồi đúng hạn.
+15:29:48 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:48 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:48 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:53 - Máy 1 đã phản hồi đúng hạn.
+15:29:53 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:53 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:53 - Lưu thành công dữ liệu cho địa chỉ 1
+15:29:58 - Máy 1 đã phản hồi đúng hạn.
+15:29:58 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:29:58 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:29:58 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:03 - Máy 1 đã phản hồi đúng hạn.
+15:30:03 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:03 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:03 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:08 - Máy 1 đã phản hồi đúng hạn.
+15:30:08 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:08 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:08 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:13 - Máy 1 đã phản hồi đúng hạn.
+15:30:13 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:13 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:13 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:18 - Máy 1 đã phản hồi đúng hạn.
+15:30:18 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:18 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:18 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:23 - Máy 1 đã phản hồi đúng hạn.
+15:30:23 - DataReceived Error: Index was outside the bounds of the array.
+15:30:24 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:24 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:24 -    at ToolTemp.WPF.MVVM.ViewModel.ToolViewModel.SerialPort_DataReceived(Object sender, SerialDataReceivedEventArgs e) in D:\Linh\Project\Temperature_Tool\ToolTemp.WPF\MVVM\ViewModel\ToolViewModel.cs:line 261
+15:30:24 - Lưu thành công dữ liệu cho địa chỉ 1
+15:30:28 - Máy 1 đã phản hồi đúng hạn.
+15:30:29 - → SaveChangesAsync: 1 record(s) affected for codeid 139
+15:30:29 - → Đã lưu 1 bản ghi vào bảng SensorData cho địa chỉ 1.
+15:30:29 - Lưu thành công dữ liệu cho địa chỉ 1
